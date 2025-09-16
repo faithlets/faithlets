@@ -60,8 +60,8 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
 
 #### Web Development
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Html-Css-Intermediate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Javascript-Intermediate4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20HtmlCss-Intermediate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Javascript-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/React-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/Python-fondational-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Python-foundational-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
