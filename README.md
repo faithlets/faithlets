@@ -42,7 +42,11 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
+#### The Cloud
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+</p>
 #### Data Analysis, Engineering & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
@@ -52,11 +56,7 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
+
 
 #### Business Intelligence & Analytics
 <p>
