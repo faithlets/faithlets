@@ -30,6 +30,8 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
 - 
 - **KUBERNETES:** Kubernetes & Cloud Native Associate – Completed a Kubernetes certification via Andela Africa and Linux Foundation, gaining hands-on experience in container orchestration, deployment, and cloud-native architecture.
 
+- **GIRLCODE:** Systems Development online – Gained hands-on experience in web development using React.js and learned foundational Python programming through remote project-based learning.
+
 ## 🌱 Currently Learning 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
