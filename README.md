@@ -20,11 +20,12 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 What I Had Been Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **AWS CLOUD ENGINEERING:** AWS Cloud Bootcamp – Designed and deployed secure, scalable AWS cloud infrastructure using IAM, EC2, VPC, ECS, RDS, S3, CloudFront, Lambda, and monitoring tools like CloudWatch and CloudTrail.  
+- **AZURE CLOUD SECURITY:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **DATA ANALYTICS:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **KUBERNETES:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
 
