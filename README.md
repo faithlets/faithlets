@@ -16,7 +16,6 @@
 Cloud-focused IT professional with over 5 years of experience in technical support and POS engineering, now transitioning into cloud computing. Certified in AWS, Azure, and Kubernetes, with practical experience in cloud security, infrastructure deployment, and data analytics. Skilled in designing secure cloud environments, automating workflows, and supporting scalable applications. Passionate about leveraging cloud technologies to solve business challenges and drive innovation.
 
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
