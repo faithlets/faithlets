@@ -45,7 +45,7 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
 #### Cloud Platforms
 <p>
   <img src="https://img.shields.io/badge/AWS-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/AZURE-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/AZURE-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
 #### Data Analysis, Engineering & Visualization
