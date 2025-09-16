@@ -34,10 +34,10 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
 
 ## 🌱 Currently Learning 
 
--**Advanced machine learning techniques using Scikit-learn and Python:**.
--**Cloud-based Data Warehousing & Analytics using Azure Synapse and AWS Redshift:**.
--**Infrastructure as Code (IaC) using AWS CloudFormation and Terraform**.
--**CI/CD pipelines with GitHub Actions and AWS CodePipeline**.
+Advanced machine learning techniques using Scikit-learn and Python.
+Cloud-based Data Warehousing & Analytics using Azure Synapse and AWS Redshift.
+Infrastructure as Code (IaC) using AWS CloudFormation and Terraform.
+CI/CD pipelines with GitHub Actions and AWS CodePipeline.
 
 ## 🛠️ Technical Skillset
 
