@@ -1,4 +1,4 @@
-## Hi there,My name is Faith Letsoara 👋
+## Hi there, my name is Faith Letsoara 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
