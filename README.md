@@ -34,8 +34,10 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+Advanced machine learning techniques using Scikit-learn and Python
+Cloud data warehousing and analytics with Google BigQuery
+Infrastructure as Code (IaC) using AWS CloudFormation and Terraform
+CI/CD pipelines with GitHub Actions and AWS CodePipeline
 
 ## 🛠️ Technical Skillset
 
