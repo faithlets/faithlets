@@ -22,10 +22,13 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
       
 ## 🔭 What I Had Been Working On 
 
-- **AWS CLOUD ENGINEERING:** AWS Cloud Bootcamp – Designed and deployed secure, scalable AWS cloud infrastructure using IAM, EC2, VPC, ECS, RDS, S3, CloudFront, Lambda, and monitoring tools like CloudWatch and CloudTrail.  
-- **AZURE CLOUD SECURITY:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **DATA ANALYTICS:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-- **KUBERNETES:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **AWS CLOUD ENGINEERING:** AWS Cloud Bootcamp – Designed and deployed secure, scalable AWS cloud infrastructure using IAM, EC2, VPC, ECS, RDS, S3, CloudFront, Lambda, and monitoring tools like CloudWatch and CloudTrail.
+- 
+- **AZURE CLOUD SECURITY:** Cloud Security virtual Internship – Simulated real-world Azure security scenarios, implemented IAM policies, monitored logs with CloudWatch and Azure Monitor, and responded to threats using SIEM tools.
+- 
+- **DATA ANALYTICS:** Data Analytics Bootcamp – Built dashboards and analyzed large datasets using Microsoft SQL, PostgreSQL, Excel, and Power BI to extract insights and support data-driven decision-making.
+- 
+- **KUBERNETES:** Kubernetes & Cloud Native Associate – Completed a Kubernetes certification via Andela Africa and Linux Foundation, gaining hands-on experience in container orchestration, deployment, and cloud-native architecture.
 
 ## 🌱 Currently Learning 
 
