@@ -57,7 +57,7 @@ for high availability
   <img src="https://img.shields.io/badge/Networking fundamentals-Intermediate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Cloud security-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Compliance-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/Automation-foundational-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Automation-Intermediate-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
 
 #### AZURE PROJECTS
@@ -65,7 +65,7 @@ for high availability
   <img src="https://img.shields.io/badge/Networking fundamentals-Intermediate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Cloud security-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Compliance-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/Automation-foundational-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Automation-Intermediate-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
 
 #### Data Analysis, Engineering & Visualization
