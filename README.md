@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-Cloud-focused IT professional with over 5 years of experience in technical support and POS engineering, now transitioning into cloud computing. Certified in AWS, Azure, and Kubernetes, with practical experience in cloud security, infrastructure deployment, and data analytics. Skilled in designing secure cloud environments, automating workflows, and supporting scalable applications. Passionate about leveraging cloud technologies to solve business challenges and drive innovation.
+Cloud-focused IT professional with over 6 years of experience in technical support and POS engineering, now transitioning into cloud computing. Certified in AWS, Azure, and Kubernetes, with practical experience in cloud security, infrastructure deployment, and data analytics. Skilled in designing secure cloud environments, automating workflows, and supporting scalable applications. Passionate about leveraging cloud technologies to solve business challenges and drive innovation.
 
 
 
