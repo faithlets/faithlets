@@ -25,12 +25,12 @@ Cloud-focused IT professional with over 5 years of experience in technical suppo
 - **AWS CLOUD ENGINEERING:** Completed AWS Cloud Bootcamp via CloudSec Network– Designed and deployed secure, scalable AWS cloud infrastructure using IAM, EC2, VPC, ECS, RDS, S3, CloudFront, Lambda, and monitoring tools like CloudWatch and CloudTrail.
   
 - **AZURE CLOUD SECURITY:** Completed Cloud Security virtual Internship via LGIT SMART SOLUTIONS– Simulated real-world Azure security scenarios, implemented IAM policies, monitored logs with CloudWatch and Azure Monitor, and responded to threats using SIEM tools.
-  
-- **DATA ANALYTICS:** Completed a Data Analytics Bootcamp via DIgitaley Drive – Built dashboards and analyzed large datasets using Microsoft SQL, PostgreSQL, Excel, and Power BI to extract insights and support data-driven decision-making.
 
 - **Cloud Network Security**: Designing AWS VPCs, Azure VNets, configuring firewalls, VPNs, and monitoring traffic.
 Hybrid Connectivity & Load Balancing: Implementing site-to-site VPNs, Direct Connect/ExpressRoute,and cloud load balancers
 for high availability
+  
+- **DATA ANALYTICS:** Completed a Data Analytics Bootcamp via DIgitaley Drive – Built dashboards and analyzed large datasets using Microsoft SQL, PostgreSQL, Excel, and Power BI to extract insights and support data-driven decision-making.
   
 - **Kubernetes** Kubernetes & Cloud Native Associate – Completed a Kubernetes certification via Andela Africa and Linux Foundation, gaining hands-on experience in container orchestration, deployment, and cloud-native architecture.
 
